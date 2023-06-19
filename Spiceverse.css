@@ -1,0 +1,53 @@
+body{ 
+    background-color: rgb(124, 189, 136);
+    font-family: Open Sans;
+}
+.primary-header{
+    font-size: 60px;
+    text-align: center;
+    color: #205D76;
+}
+.logo{
+    width: 650px;
+    height: 500px;
+}
+.Enjoy{
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+}
+.order{
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;   
+}
+.brand{
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+}
+.store-list{
+    padding-left: 15px;
+    color: #FFC122;
+}
+.store-link {
+    color: #EA6E2F;
+    font-size: 20px;
+}
+.primary-footer {
+    background-color: #FFC122;
+    padding: 2px;
+    text-align: center;
+}
+.store-section {
+    display: flex;
+    display: -webkit-flex;      
+    margin: 50px auto; 
+    justify-content: center;
+}
+.store-details{
+    margin-left: 30px;
+}
+li{
+    margin-bottom: 10px;
+}
